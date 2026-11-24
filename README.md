@@ -9,8 +9,8 @@
 
   <!-- Crew & Status Badges -->
   <p>
-    <img src="https://img.shields.io/badge/CREW-NICE_GANG-991b1b?style=for-the-badge" alt="Nice Gang" />
-    <img src="https://img.shields.io/badge/STATUS-LOCKED_IN-161b22?style=for-the-badge" alt="Status" />
+    <img src="https://img.shields.io/badge/CREW-NICE%20GANG-991b1b?style=for-the-badge" alt="Nice Gang" />
+    <img src="https://img.shields.io/badge/STATUS-LOCKED%20IN-161b22?style=for-the-badge" alt="Status" />
     <img src="https://komarev.com/ghpvc/?username=MiytgAA&label=PROFILE+VIEWS&color=161b22&style=for-the-badge" alt="Views" />
   </p>
 
@@ -22,7 +22,6 @@
 ---
 
 ### 🔥 The Lore (About Me)
-<img align="right" src="./bigmo.jpg" width="165" style="border-radius: 12px;" alt="Bigmo Nice Gang" />
 - 🏴 **Crew:** Nice Gang enjoyer — ngoding santai tapi tetep *hustle*
 - 💻 **Current Grind:** Lagi fokus ngulik **Web Dev (HTML/CSS/JS)** & **Mobile App (Dart/Flutter)**
 - 🚀 **Misi:** Bikin repo makin rapi, bukan cuma sekadar *nyoba-push*
@@ -32,13 +31,7 @@
 
 ### 🎒 Loadout (Tech Stack)
 <div align="left">
-  <img src="https://img.shields.io/badge/HTML5-161b22?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-161b22?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Dart-161b22?style=for-the-badge&logo=dart&logoColor=0175C2" alt="Dart" />
-  <img src="https://img.shields.io/badge/Flutter-161b22?style=for-the-badge&logo=flutter&logoColor=02569B" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_Code-161b22?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,dart,flutter,git,vscode&theme=dark" alt="Tech Stack" />
 </div>
 
 ---
