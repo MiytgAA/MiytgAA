@@ -29,4 +29,30 @@
 
 ### 🔥 The Lore (About Me)
 - 🏴 **Crew:** Nice Gang enjoyer — ngoding santai tapi tetep *hustle*
-- 💻 **Current Grind:** Lagi fokus ngulik **Web Dev (HTML/CSS/JS
+- 💻 **Current Grind:** Lagi fokus ngulik **Web Dev (HTML/CSS/JS)** & **Mobile App (Dart/Flutter)**
+- 🚀 **Misi:** Bikin repo makin rapi, bukan cuma sekadar *nyoba-push*
+- 📩 **Hit Me Up:** `ilhamkur4444@gmail.com`
+
+---
+
+### 🎒 Loadout (Tech Stack)
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,dart,flutter,git,vscode&theme=dark" alt="Tech Stack" />
+</div>
+
+---
+
+### 📈 Stream & Commit Stats
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MiytgAA&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&title_color=ff3b3b&icon_color=ff3b3b&text_color=e6edf3" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiytgAA&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=ff3b3b&text_color=e6edf3" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=MiytgAA&theme=dark&background=0d1117&hide_border=true&ring=ff3b3b&fire=ff3b3b&currStreakLabel=ff3b3b" alt="GitHub Streak" />
+</div>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:991b1b,45:1c1917,100:0d1117&height=110&section=footer" width="100%" />
+</div>
