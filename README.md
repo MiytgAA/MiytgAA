@@ -11,7 +11,7 @@
 
   <!-- Typing Effect -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=21&duration=2800&pause=900&color=FF3B3B&center=true&vCenter=true&width=560&lines=NICE+GANG+ON+TOP+%F0%9F%8F%B4;Bigmo+%26+Resbob+Enjoyer+%7C+W+Commits+Only;Ngulik+Web+%26+Dart%2FFlutter+Sambil+Mantau+Live" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Resbob+Mentality!!!" alt="Typing SVG" />
   </a>
 
   <!-- Status & Views Badges -->
