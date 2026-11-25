@@ -28,7 +28,7 @@
 ---
 
 ### About
-- 🏴 nice gang, Tuan, ada Resbob
+- 🏴 nice gang, Tuhan, ada Resbob
 - 💻 lagi sering ngulik
 - 🚧 isi repo masih agak berantakan
 - 📩 hit me up: `ilhamkur4444@gmail.com`
