@@ -28,9 +28,9 @@
 ---
 
 ### About
-- 🏴 nice gang, ngoding santai aja
-- 💻 lagi sering ngulik **web** sama **flutter (dart)**
-- 🚧 isi repo masih agak berantakan, maklum masih belajar bang
+- 🏴 nice gang, Tuan, ada Resbob
+- 💻 lagi sering ngulik
+- 🚧 isi repo masih agak berantakan
 - 📩 hit me up: `ilhamkur4444@gmail.com`
 
 ---
